@@ -23,10 +23,9 @@ Let me know if you encounter issues with the calculator
 
 
 
-### Demo
-
-
-<img src="images/demo.gif"  width="350" height="620"/> 
+| Verse of the day | Search Verse |
+| --- | --- |
+| <img src="/readmeImage/Hnet-image (1).gif" width="320" height="610"/> | <img src="/readmeImage/Hnet-image (2).gif" width="320" height="610"/> |
 
 
 
